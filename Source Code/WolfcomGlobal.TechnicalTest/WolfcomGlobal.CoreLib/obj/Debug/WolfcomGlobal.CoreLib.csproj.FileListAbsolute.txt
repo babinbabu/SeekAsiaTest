@@ -1,0 +1,70 @@
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\WolfcomGlobal.CoreLib.dll.config
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\WolfcomGlobal.CoreLib.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\WolfcomGlobal.CoreLib.pdb
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\EntityFramework.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\EntityFramework.SqlServer.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.ValueTuple.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\EntityFramework.xml
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\EntityFramework.SqlServer.xml
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.ValueTuple.xml
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\obj\Debug\WolfcomGlobal.CoreLib.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\obj\Debug\WolfcomGlobal.CoreLib.pdb
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\obj\Debug\WolfcomGlobal.CoreLib.csproj.CoreCompileInputs.cache
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\obj\Debug\WolfcomGlobal.CoreLib.csproj.CopyComplete
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\NLog.config
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\NLog.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\NLog.xml
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\obj\Debug\WolfcomGlobal.CoreLib.csprojAssemblyReference.cache
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\NLog.config
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\WolfcomGlobal.CoreLib.dll.config
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\WolfcomGlobal.CoreLib.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\WolfcomGlobal.CoreLib.pdb
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\EntityFramework.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\EntityFramework.SqlServer.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\NLog.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.ValueTuple.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\EntityFramework.xml
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\EntityFramework.SqlServer.xml
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\NLog.xml
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.ValueTuple.xml
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\obj\Debug\WolfcomGlobal.CoreLib.csprojAssemblyReference.cache
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\obj\Debug\WolfcomGlobal.CoreLib.csproj.CoreCompileInputs.cache
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\obj\Debug\WolfcomGlobal.CoreLib.csproj.CopyComplete
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\obj\Debug\WolfcomGlobal.CoreLib.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\obj\Debug\WolfcomGlobal.CoreLib.pdb
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\NLog.config
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\WolfcomGlobal.CoreLib.dll.config
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\WolfcomGlobal.CoreLib.dll
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\WolfcomGlobal.CoreLib.pdb
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\EntityFramework.dll
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\EntityFramework.SqlServer.dll
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\NLog.dll
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.ValueTuple.dll
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\EntityFramework.xml
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\EntityFramework.SqlServer.xml
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\NLog.xml
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.ValueTuple.xml
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\obj\Debug\WolfcomGlobal.CoreLib.csproj.CoreCompileInputs.cache
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\obj\Debug\WolfcomGlobal.CoreLib.csproj.CopyComplete
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\obj\Debug\WolfcomGlobal.CoreLib.dll
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\obj\Debug\WolfcomGlobal.CoreLib.pdb
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\obj\Debug\WolfcomGlobal.CoreLib.csprojResolveAssemblyReference.cache
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.Web.Helpers.dll
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.Web.Mvc.dll
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.Web.Razor.dll
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.Web.WebPages.dll
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.Web.WebPages.Razor.dll
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.Web.Helpers.xml
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.Web.Mvc.xml
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.Web.Razor.xml
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.Web.WebPages.xml
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.Web.WebPages.Razor.xml

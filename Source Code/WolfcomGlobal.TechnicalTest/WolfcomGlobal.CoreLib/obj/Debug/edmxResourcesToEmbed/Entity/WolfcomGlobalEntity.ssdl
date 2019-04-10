@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WOLFCOMTechnicalTestModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CustomerPromotion">
+    <Key>
+      <PropertyRef Name="PromotionId" />
+    </Key>
+    <Property Name="PromotionId" Type="bigint" Nullable="false" />
+    <Property Name="UserTypeId" Type="bigint" Nullable="false" />
+    <Property Name="ProductCode" Type="bigint" Nullable="false" />
+    <Property Name="PromotionFormula" Type="nvarchar(max)" />
+    <Property Name="PromotionPrice" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="Status" Type="bit" Nullable="false" />
+    <Property Name="ExpiryDate" Type="datetime" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="UpdatedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="PrivilageCustomer">
+    <Key>
+      <PropertyRef Name="CustomerId" />
+    </Key>
+    <Property Name="CustomerId" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CustomerPrivilageName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Status" Type="bit" Nullable="false" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ProductDetails">
+    <Key>
+      <PropertyRef Name="ProductCode" />
+    </Key>
+    <Property Name="ProductCode" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProductId" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ProductName" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="ProductPrice" Type="decimal" Precision="15" Scale="2" Nullable="false" />
+    <Property Name="ProductDescription" Type="nvarchar(max)" />
+    <Property Name="Status" Type="bit" Nullable="false" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="UpdatedDate" Type="datetime" />
+  </EntityType>
+  <Association Name="FK_CustomerPromotion_PrivilageCustomer">
+    <End Role="PrivilageCustomer" Type="Self.PrivilageCustomer" Multiplicity="1" />
+    <End Role="CustomerPromotion" Type="Self.CustomerPromotion" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PrivilageCustomer">
+        <PropertyRef Name="CustomerId" />
+      </Principal>
+      <Dependent Role="CustomerPromotion">
+        <PropertyRef Name="UserTypeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CustomerPromotion_ProductDetails1">
+    <End Role="ProductDetails" Type="Self.ProductDetails" Multiplicity="1" />
+    <End Role="CustomerPromotion" Type="Self.CustomerPromotion" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProductDetails">
+        <PropertyRef Name="ProductCode" />
+      </Principal>
+      <Dependent Role="CustomerPromotion">
+        <PropertyRef Name="ProductCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="WOLFCOMTechnicalTestModelStoreContainer">
+    <EntitySet Name="CustomerPromotion" EntityType="Self.CustomerPromotion" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PrivilageCustomer" EntityType="Self.PrivilageCustomer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ProductDetails" EntityType="Self.ProductDetails" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_CustomerPromotion_PrivilageCustomer" Association="Self.FK_CustomerPromotion_PrivilageCustomer">
+      <End Role="PrivilageCustomer" EntitySet="PrivilageCustomer" />
+      <End Role="CustomerPromotion" EntitySet="CustomerPromotion" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CustomerPromotion_ProductDetails1" Association="Self.FK_CustomerPromotion_ProductDetails1">
+      <End Role="ProductDetails" EntitySet="ProductDetails" />
+      <End Role="CustomerPromotion" EntitySet="CustomerPromotion" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
